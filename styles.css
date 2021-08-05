@@ -48,7 +48,7 @@ a{
 
 #home{
     height: 700px;
-    background: url('https://imgur.com/6MgDd3B.png') no-repeat;
+    background: url('bg-img.jpg') no-repeat;
     background-size:cover;
     display: block;
 }
